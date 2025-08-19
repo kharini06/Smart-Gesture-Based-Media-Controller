@@ -109,7 +109,3 @@ Your laptop is now listening for HTTP POST requests from the ESP32.
 - Add more customizable gestures  
 - Include real-time gesture feedback (vibration or LEDs)  
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
